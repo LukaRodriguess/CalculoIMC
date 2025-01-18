@@ -31,33 +31,56 @@ Este é um programa simples desenvolvido em **Java** que calcula o **Índice de 
    git clone https://github.com/seu-usuario/CalculoIMC.git
    cd CalculoIMC
 2. Compile o programa no terminal ou prompt de comando:
+
 javac CalculoIMC.java
 
-3. Execute o programa:
+4. Execute o programa:
+
 java CalculoIMC
 
+---
+
 📚 Exemplo de execução
+
 Entrada:
+
+
 ===== Cálculo do IMC =====
+
 Este programa calcula o seu Índice de Massa Corporal (IMC).
+
 Digite sua altura em metros (exemplo: 1.75): 1.75
+
 Digite seu peso em kg (exemplo: 70): 70
 
+
 Saída:
+
 Seu IMC é: 22.86
+
 Classificação: Peso normal.
 
 Deseja calcular outro IMC? (sim/não): sim
 
+---
+
 🛠️ Tecnologias utilizadas
+
 Java: Linguagem de programação utilizada no desenvolvimento do programa.
+
 IDE/Editor: Qualquer editor que suporte Java (NetBeans, IntelliJ, VSCode, etc.).
+
+---
 
 📄 Licença
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
 
+---
+
 🤝 Contribuições
 Sinta-se à vontade para abrir issues ou enviar pull requests caso tenha sugestões ou melhorias para o projeto.
+
+---
 
 📞 Contato
 Nome: Luka de Souza Rodrigues Silva
