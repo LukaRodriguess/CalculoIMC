@@ -31,12 +31,12 @@ Este é um programa simples desenvolvido em **Java** que calcula o **Índice de 
    git clone https://github.com/seu-usuario/CalculoIMC.git
    cd CalculoIMC
 2. Compile o programa no terminal ou prompt de comando:
-
-javac CalculoIMC.java
+     ```bash
+   javac CalculoIMC.java
 
 4. Execute o programa:
-
-java CalculoIMC
+   ```bash
+   java CalculoIMC
 
 ---
 
